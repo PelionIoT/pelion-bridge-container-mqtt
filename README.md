@@ -1,5 +1,7 @@
 arm PELION Device Shadow bridge for generic MQTT brokers              
   
+08/27/2018: updated bridge - SLF4J integration, scaling fixes in shadow discovery, bug fixes.
+
 08/27/2018: updated bridge - more bug fixes for partial configuration sanity
 
 08/26/2018: updated bridge - minor fixes. Final renaming of bridge runtime for pelion
