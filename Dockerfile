@@ -3,6 +3,7 @@ MAINTAINER Doug Anson ARM <doug.anson@arm.com>
 EXPOSE 22/tcp
 EXPOSE 8234/tcp
 EXPOSE 28520/tcp
+EXPOSE 17362/tcp
 RUN apt-get update
 RUN apt-get -y install default-jre vim locales openssh-server supervisor dnsutils unzip zip
 RUN useradd arm -m -s /bin/bash 

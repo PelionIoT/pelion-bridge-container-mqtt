@@ -1,16 +1,10 @@
 arm PELION Device Shadow bridge for generic MQTT brokers              
   
+08/30/2018: updated dockerfile with websocket port for log streaming
+
 08/28/2018: updated bridge - Initial bridge health statistics 
 
 08/28/2018: updated bridge - IoTHub support for connection strings, Watson fixes
-
-08/27/2018: updated bridge - SLF4J integration, scaling fixes in shadow discovery, bug fixes.
-
-08/27/2018: updated bridge - more bug fixes for partial configuration sanity
-
-08/26/2018: updated bridge - minor fixes. Final renaming of bridge runtime for pelion
-
-08/26/2018: updated bridge - fixes for proper reset recovery
 
 Container Bridge Instance Installation:
 
