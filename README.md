@@ -1,5 +1,7 @@
 arm PELION Device Shadow bridge for generic MQTT brokers              
   
+09/06/2018: updated bridge - more cleanup and removal of older subscription management. Webhook reset finished. 
+
 09/04/2018: updated bridge and properties editor - initial support of streamed logging and health statistics
 
 08/30/2018: updated dockerfile with websocket port for log streaming
