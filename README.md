@@ -1,5 +1,7 @@
 arm PELION Device Shadow bridge for generic MQTT brokers              
   
+09/10/2018: updated bridge - Watson IoT fixes
+
 09/10/2018: resynced with templated add-on sample
 
 09/09/2018: updated bridge - misc syncs 
