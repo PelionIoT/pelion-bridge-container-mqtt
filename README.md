@@ -1,5 +1,7 @@
 arm PELION Device Shadow bridge for generic MQTT brokers              
   
+09/10/2018: resynced with templated add-on sample
+
 09/09/2018: updated bridge - misc syncs 
 
 09/06/2018: updated bridge - more cleanup and removal of older subscription management. Webhook reset finished. 
