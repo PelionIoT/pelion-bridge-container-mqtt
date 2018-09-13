@@ -1,5 +1,7 @@
 arm PELION Device Shadow bridge for generic MQTT brokers              
   
+09/13/2018: synced update
+
 09/10/2018: updated bridge - Watson IoT fixes
 
 09/10/2018: resynced with templated add-on sample
@@ -7,14 +9,6 @@ arm PELION Device Shadow bridge for generic MQTT brokers
 09/09/2018: updated bridge - misc syncs 
 
 09/06/2018: updated bridge - more cleanup and removal of older subscription management. Webhook reset finished. 
-
-09/04/2018: updated bridge and properties editor - initial support of streamed logging and health statistics
-
-08/30/2018: updated dockerfile with websocket port for log streaming
-
-08/28/2018: updated bridge - Initial bridge health statistics 
-
-08/28/2018: updated bridge - IoTHub support for connection strings, Watson fixes
 
 Container Bridge Instance Installation:
 
