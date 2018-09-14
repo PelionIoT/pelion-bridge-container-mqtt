@@ -1,5 +1,7 @@
 arm PELION Device Shadow bridge for generic MQTT brokers              
   
+09/14/2018: updated bridge - Google OBS and Null Pointer fixes
+
 09/13/2018: synced update
 
 09/10/2018: updated bridge - Watson IoT fixes
