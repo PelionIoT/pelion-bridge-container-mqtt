@@ -1,5 +1,7 @@
 arm PELION Device Shadow bridge for generic MQTT brokers              
   
+09/30/2018: updated properties-editor - update POST methods
+
 09/30/2018: updated bridge - added JVM memory statistics
 
 09/29/2018: updated bridge - fixes and updates 
