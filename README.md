@@ -1,5 +1,7 @@
 arm PELION Device Shadow bridge for generic MQTT brokers              
   
+10/03/2018: updated bridge and properties editor - general sync
+
 10/02/2018: updated bridge - fixed shadow count accounting
 
 10/01/2018: updated bridge - updated specific health stat updates
