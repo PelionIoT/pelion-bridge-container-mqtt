@@ -1,5 +1,7 @@
 arm PELION Device Shadow bridge for generic MQTT brokers              
   
+10/07/2018: updated bridge - lots of fixes for device deletion
+
 10/06/2018: updated bridge - lots of debugging cleanups, iothub fixes
 
 10/05/2018: updated bridge - pagination support added for Pelion and initial scaling tests and fixes
