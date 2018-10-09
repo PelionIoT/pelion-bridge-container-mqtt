@@ -1,5 +1,7 @@
 arm PELION Device Shadow bridge for generic MQTT brokers              
   
+10/09/2018: updated bridge - MQTT fixes, HTTP fixes, device discvoery fixes and tweaks, IoTHub fixes
+
 10/07/2018: updated bridge - lots of fixes for device deletion
 
 10/06/2018: updated bridge - lots of debugging cleanups, iothub fixes
@@ -11,38 +13,6 @@ arm PELION Device Shadow bridge for generic MQTT brokers
 10/02/2018: updated bridge - fixed shadow count accounting
 
 10/01/2018: updated bridge - updated specific health stat updates
-
-09/30/2018: updated properties-editor - update POST methods
-
-09/30/2018: updated bridge - added JVM memory statistics
-
-09/29/2018: updated bridge - fixes and updates 
-
-09/28/2018: synced update
-
-09/28/2018: updated bridge and properties-editor - fixes for VM installations 
-
-09/27/2018: updated bridge - better support for non-MQTT peer interfaces
-
-09/26/2018: synced update
-
-09/20/2018: updated bridge - misc sync
-
-09/19/2018: updated bridge - misc sync
-
-09/17/2018: updated bridge - misc sync
-
-09/14/2018: updated bridge - Google OBS and Null Pointer fixes
-
-09/13/2018: synced update
-
-09/10/2018: updated bridge - Watson IoT fixes
-
-09/10/2018: resynced with templated add-on sample
-
-09/09/2018: updated bridge - misc syncs 
-
-09/06/2018: updated bridge - more cleanup and removal of older subscription management. Webhook reset finished. 
 
 Container Bridge Instance Installation:
 
