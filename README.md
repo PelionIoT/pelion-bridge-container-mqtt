@@ -1,5 +1,7 @@
 arm PELION Device Shadow bridge for generic MQTT brokers              
   
+10/10/1028: updated bridge - IoTHub token expiration fix
+
 10/09/2018: updated bridge - MQTT fixes, HTTP fixes, device discvoery fixes and tweaks, IoTHub fixes, Max # shadows
 
 10/07/2018: updated bridge - lots of fixes for device deletion
