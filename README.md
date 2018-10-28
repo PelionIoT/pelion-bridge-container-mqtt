@@ -1,5 +1,7 @@
 arm PELION Device Shadow bridge for generic MQTT brokers              
   
+10/27/2018: updated bridge - Google CloudIoT corner-case fix for hard-restarted bridge
+
 10/26/2018: updated bridge - IoTHub device prefixing now defaulted to enabled
 
 10/26/2018: updated bridge - device shadow deletion message cleanups, misc configuration tweaks
