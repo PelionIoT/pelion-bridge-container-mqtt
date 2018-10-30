@@ -1,5 +1,7 @@
 arm PELION Device Shadow bridge for generic MQTT brokers              
   
+10/30/2018: updated bridge - minor fix to iobhub auth header for pelion webhook.
+
 10/29/2018: updated bridge - updated Pelion webhook validator and setup mechanism. Health stat tuning. 
 
 10/27/2018: updated bridge - Google CloudIoT corner-case fix for hard-restarted bridge
