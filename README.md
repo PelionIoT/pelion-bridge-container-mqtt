@@ -1,5 +1,7 @@
 arm PELION Device Shadow bridge for generic MQTT brokers              
   
+11/03/2018: updated bridge - new IoTHub HTTP-based implementation (optional) in leu of MQTT
+
 10/30/2018: updated bridge - minor fix to iobhub auth header for pelion webhook.
 
 10/29/2018: updated bridge - updated Pelion webhook validator and setup mechanism. Health stat tuning. 
