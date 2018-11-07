@@ -1,5 +1,7 @@
 arm PELION Device Shadow bridge for generic MQTT brokers              
   
+11/07/2018: updated bridge - new Google CloudIoT HTTP-based implementation (optional) in leu of MQTT
+
 11/04/2018: updated bridge - reoganized for future AWS and Google HTTP implementations
 
 11/03/2018: updated bridge - new IoTHub HTTP-based implementation (optional) in leu of MQTT
