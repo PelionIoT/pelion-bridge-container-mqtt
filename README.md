@@ -1,42 +1,12 @@
 arm PELION Device Shadow bridge for generic MQTT brokers              
   
+11/26/2018: updated bridge - removed outdated scripts - no longer needed
+
 11/07/2018: updated bridge - new Google CloudIoT HTTP-based implementation (optional) in leu of MQTT
 
 11/04/2018: updated bridge - reoganized for future AWS and Google HTTP implementations
 
 11/03/2018: updated bridge - new IoTHub HTTP-based implementation (optional) in leu of MQTT
-
-10/30/2018: updated bridge - minor fix to iobhub auth header for pelion webhook.
-
-10/29/2018: updated bridge - updated Pelion webhook validator and setup mechanism. Health stat tuning. 
-
-10/27/2018: updated bridge - Google CloudIoT corner-case fix for hard-restarted bridge
-
-10/26/2018: updated bridge - IoTHub device prefixing now defaulted to enabled
-
-10/26/2018: updated bridge - device shadow deletion message cleanups, misc configuration tweaks
-
-10/20/2018: updated bridge - misc cleanups
-
-10/16/2018: updated bridge and properties editor
-
-10/10/2018: updated bridge and properties editor - numerous http retry fixes and enhancements
-
-10/10/2018: updated bridge - IoTHub token expiration fix
-
-10/09/2018: updated bridge - MQTT fixes, HTTP fixes, device discvoery fixes and tweaks, IoTHub fixes, Max # shadows
-
-10/07/2018: updated bridge - lots of fixes for device deletion
-
-10/06/2018: updated bridge - lots of debugging cleanups, iothub fixes
-
-10/05/2018: updated bridge - pagination support added for Pelion and initial scaling tests and fixes
-
-10/03/2018: updated bridge and properties editor - general sync
-
-10/02/2018: updated bridge - fixed shadow count accounting
-
-10/01/2018: updated bridge - updated specific health stat updates
 
 Container Bridge Instance Installation:
 
