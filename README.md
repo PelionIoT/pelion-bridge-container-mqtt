@@ -1,5 +1,7 @@
 arm PELION Device Shadow bridge for generic MQTT brokers              
   
+01/05/2019: docker build trigger update
+
 01/04/2019: Happy New Year! minor update to mbed-properties-editor
 
 11/26/2018: updated bridge - removed outdated scripts - no longer needed
