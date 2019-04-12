@@ -1,5 +1,7 @@
 arm PELION Device Shadow bridge for generic MQTT brokers              
   
+04/12/2019: Google CloudIoT fixes, updated GoogleCloudIoT APIs
+
 03/07/2019: refresh builds
 
 01/05/2019: docker build trigger update
