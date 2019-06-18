@@ -1,5 +1,7 @@
 arm PELION Device Shadow bridge for generic MQTT brokers              
   
+06/18/2019: updated bridge - added short pause to long polling to prevent runaway polling...
+
 04/17/2019: updated bridge - updated dependency components
 
 04/12/2019: Google CloudIoT fixes, updated GoogleCloudIoT APIs
