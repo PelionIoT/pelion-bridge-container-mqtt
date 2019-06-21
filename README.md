@@ -1,5 +1,9 @@
 arm PELION Device Shadow bridge for generic MQTT brokers              
   
+06/21/2019: updated bridge and properties editor - dependency lib updates
+
+06/19/2019: updated properties editor
+
 06/18/2019: updated bridge - added short pause to long polling to prevent runaway polling...
 
 04/17/2019: updated bridge - updated dependency components
