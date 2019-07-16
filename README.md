@@ -1,5 +1,7 @@
 arm PELION Device Shadow bridge for generic MQTT brokers              
   
+07/16/2019: updated bridge - multi-console WS fixes
+
 06/27/2019: updated preferences editor
 
 06/26/2019: updated bridge - more tweaking of WS logger tunables
