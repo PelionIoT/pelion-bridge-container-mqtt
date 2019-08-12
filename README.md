@@ -1,5 +1,7 @@
 arm PELION Device Shadow bridge for generic MQTT brokers              
   
+08/12/2019: updated bridge - numerous bugfixes and initial websocket notification callback support
+
 07/25/2019: updated bridge - additional fixes and updates
 
 07/23/2019: updated bridge - PUT content type fixes, TypeDecoder and GC enhancements
