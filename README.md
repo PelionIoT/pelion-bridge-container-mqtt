@@ -1,5 +1,7 @@
 arm PELION Device Shadow bridge for generic MQTT brokers              
   
+08/20/2019: updated bridge - added key Pelion device attribute retrieval prior to twin creation
+
 08/13/2019: updated bridge - webhook fixes
 
 08/12/2019: updated bridge - numerous bugfixes and initial websocket notification callback support
