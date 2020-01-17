@@ -1,5 +1,7 @@
 arm PELION Device Shadow bridge for generic MQTT brokers              
   
+01/17/2020: updated bridge - internal dependencies updated
+
 11/11/2019: updated bridge - internal dependencies updated
 
 10/31/2019: updated bridge - minor udpates and fixes
