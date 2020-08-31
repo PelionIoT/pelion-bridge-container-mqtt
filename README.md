@@ -1,5 +1,7 @@
 arm PELION Device Shadow bridge for generic MQTT brokers              
   
+08/31/2020: updated bridge - updated dependencies
+
 02/29/2020: updated bridge - fixes for draft mode MQTT (token handling) 
 
 02/29/2020: updated bridge - updated for treasuredata support. minor marshalling fixes
