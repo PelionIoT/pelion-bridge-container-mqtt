@@ -1,5 +1,7 @@
 arm PELION Device Shadow bridge for generic MQTT brokers              
   
+08/08/2021: updated bridge - minor fixes and updates for AWS and Pelion
+
 01/07/2021: updated bridge - minor fixes and dependency updates
 
 08/31/2020: updated bridge - updated dependencies
